@@ -1,0 +1,22 @@
+D:\Users\avas\Desktop\2022\user455207\ATM\ATM\bin\Debug\ATM.exe.config
+D:\Users\avas\Desktop\2022\user455207\ATM\ATM\bin\Debug\ATM.exe
+D:\Users\avas\Desktop\2022\user455207\ATM\ATM\bin\Debug\ATM.pdb
+D:\Users\avas\Desktop\2022\user455207\ATM\ATM\obj\Debug\ATM.ATMForm.resources
+D:\Users\avas\Desktop\2022\user455207\ATM\ATM\obj\Debug\ATM.CentralBankForm.resources
+D:\Users\avas\Desktop\2022\user455207\ATM\ATM\obj\Debug\ATM.Properties.Resources.resources
+D:\Users\avas\Desktop\2022\user455207\ATM\ATM\obj\Debug\ATM.csproj.GenerateResource.cache
+D:\Users\avas\Desktop\2022\user455207\ATM\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+D:\Users\avas\Desktop\2022\user455207\ATM\ATM\obj\Debug\ATM.exe
+D:\Users\avas\Desktop\2022\user455207\ATM\ATM\obj\Debug\ATM.pdb
+D:\Users\avas\Desktop\2022\user455207\ATM\ATM\obj\Debug\ATM.csproj.AssemblyReference.cache
+E:\дубна\4 semester\_OOP [due]\ATM\ATM\bin\Debug\ATM.exe.config
+E:\дубна\4 semester\_OOP [due]\ATM\ATM\bin\Debug\ATM.exe
+E:\дубна\4 semester\_OOP [due]\ATM\ATM\bin\Debug\ATM.pdb
+E:\дубна\4 semester\_OOP [due]\ATM\ATM\obj\Debug\ATM.csproj.AssemblyReference.cache
+E:\дубна\4 semester\_OOP [due]\ATM\ATM\obj\Debug\ATM.ATMForm.resources
+E:\дубна\4 semester\_OOP [due]\ATM\ATM\obj\Debug\ATM.CentralBankForm.resources
+E:\дубна\4 semester\_OOP [due]\ATM\ATM\obj\Debug\ATM.Properties.Resources.resources
+E:\дубна\4 semester\_OOP [due]\ATM\ATM\obj\Debug\ATM.csproj.GenerateResource.cache
+E:\дубна\4 semester\_OOP [due]\ATM\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+E:\дубна\4 semester\_OOP [due]\ATM\ATM\obj\Debug\ATM.exe
+E:\дубна\4 semester\_OOP [due]\ATM\ATM\obj\Debug\ATM.pdb
